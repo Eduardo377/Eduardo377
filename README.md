@@ -27,6 +27,7 @@
   <a href="https://open.spotify.com/playlist/456PVaGbut24T8m1M3SSiN" target="_blank"><img width="78px" src="https://i1.wp.com/papodelouco.com/wp-content/uploads/2018/08/spotify-clip.png?fit=1280%2C469&ssl=1"target="_blank"></a>
  <a href="https://twitter.com/ConsultorEduard" target="_blank"><img width="74px" src="https://i0.wp.com/multarte.com.br/wp-content/uploads/2020/07/portalcbncampinas-com-br-twittereapolitica-twitter-logo.png?fit=2100%2C790&ssl=1"target="_blank"></a>
  <a href="https://www.twitch.tv/sabbath377" target="_blank"><img width="48px" src="https://tec-cia.com.br/wp-content/uploads/2015/01/Twitch-logo.jpg"target="_blank"></a>
+ <a href="https://www.facebook.com/eduardogomes377" target="_blank"><img width="120px" src="https://www.djapa.com.br/wp-content/uploads/2020/06/Logo-facebook-djapa.png"target="_blank"></a>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
