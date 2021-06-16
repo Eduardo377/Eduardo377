@@ -1,4 +1,5 @@
-## Olá! Eu sou o Eduardo Gomes
+## Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Eu sou o Eduardo Gomes! Seja bem vindo <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>
+
  <div>
   <a href="https://github.com/Eduardo377">
 </div>
@@ -21,14 +22,17 @@
 <div style="display: inline-block"><br> 
   <a href="https://instagram.com/eduardogomes377" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: eduardogomes377@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-gomes-b1ba2a186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://www.linkedin.com/in/eduardo-gomes-b1ba2a186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCFhADs9e8lYuUm1YXN0lAKg" target="_blank"><img width="63px" mirgin="50px" src="https://pbs.twimg.com/media/EZw8_wwXsAEaEf8.jpg" target="_blank"></a>
+  <a href="https://open.spotify.com/playlist/456PVaGbut24T8m1M3SSiN" target="_blank"><img width="78px" src="https://i1.wp.com/papodelouco.com/wp-content/uploads/2018/08/spotify-clip.png?fit=1280%2C469&ssl=1"target="_blank"></a>
+ <a href="https://twitter.com/ConsultorEduard" target="_blank"><img width="74px" src="https://i0.wp.com/multarte.com.br/wp-content/uploads/2020/07/portalcbncampinas-com-br-twittereapolitica-twitter-logo.png?fit=2100%2C790&ssl=1"target="_blank"></a>
+ <a href="https://www.twitch.tv/sabbath377" target="_blank"><img width="48px" src="https://tec-cia.com.br/wp-content/uploads/2015/01/Twitch-logo.jpg"target="_blank"></a>
+
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
- 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo377&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
- 
+
 #
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo377)](https://github.com/anuraghazra/github-readme-stats)
