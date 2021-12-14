@@ -106,7 +106,7 @@ brilharem!
 
 <br/>  
 
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=4i9vjeriexk34pxkdf4aykpcp&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=4i9vjeriexk34pxkdf4aykpcp&cover_image=true&theme=default" /></div>  
+<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=4i9vjeriexk34pxkdf4aykpcp&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=4i9vjeriexk34pxkdf4aykpcp&cover_image=true&theme=default&bar_color_cover=false" /></div>  
 
 <br/>  
 
