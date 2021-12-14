@@ -1,9 +1,11 @@
+## Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Sou Eduardo Gomes! Seja bem vindo <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>
+
 <div align="center">
 <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" align="center" style="width: 100%" /> 
 </div>  
   
 
-### <div align="center">Sou Eduardo Gomes, desenvolvedor full-stack 👨‍💻 Seja bem vindo <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> 🚀</div>  
+### <div align="center"Desenvolvedor full-stack👨‍💻 Estado civil: Em constante apredizado 🚀</div>  
   
 
 - 🔭 Eu nunca tive uma carreira de fato, sempre trabalhei onde tive oportunidade para sobreviver, atualmente sou entregador e vi nessa profissão a possibilidade de estudar e trabalhar para conquistar meus objetivos, ajudar em casa, buscar meu sustento.  
