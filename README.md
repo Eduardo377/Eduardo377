@@ -1,34 +1,129 @@
-## Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Sou Eduardo Gomes! Seja bem vindo <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>
-
- <div>
-  <a href="https://github.com/Eduardo377">
-</div>
- <h4>Linguagens de Programação</h4>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a align="center" href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
- <img align="center" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-</div>
- 
- <h4>Softwares</h4>
- <div style="display: inline-block"><br>
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
   
- </div><br>
- <br>
-<div style="display: inline-block"><br> 
-  <a href = "mailto: eduardogomes377@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-gomes-b1ba2a186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/playlist/456PVaGbut24T8m1M3SSiN" target="_blank"><img width="78px" src="https://i1.wp.com/papodelouco.com/wp-content/uploads/2018/08/spotify-clip.png?fit=1280%2C469&ssl=1"target="_blank"></a>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>"
- 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo377&show_icons=true&theme=synthwave)](https://github.com/Eduardo377/github-readme-stats)
+### <div align="center">Sou Eduardo Gomes, desenvolvedor full-stack 👨‍💻 Seja bem vindo <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> 🚀</div>  
+  
 
-#
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo377)](https://github.com/Eduardo377/github-readme-stats)
+- 🔭 Eu nunca tive uma carreira de fato, sempre trabalhei onde tive oportunidade para sobreviver, atualmente sou entregador e vi nessa profissão a possibilidade de estudar e trabalhar para conquistar meus objetivos, ajudar em casa, buscar meu sustento.  
+  
+
+- 🌱A tecnologia me fez enxergar além, me fez sonhar com uma realidade diferente da que eu vivo hoje e finalmente construir uma carreira sólida... Meu objetivo é ficar longe das ruas, ter oportunidade de lazer, ter qualidade de vida, segurança física e financeira.  
+  
+
+- 😉 Du, Dudu e Edu são os melhores apelidos que um Geek poderia querer! Movido a
+desafios, atualmente, estou aprendendo a programar com React, HTML, CSS, JavaScript,
+SQL na Cubos Academy, como bolsista no Programa Cubos Academy e iFood.   
+  
+
+- ⚡ Familiarizado com sistemas operacionais como Windows, Android, Linux e plataformas
+baseadas em Linux. Sou um cara flexível, que tem como missão de vida tornar a vida das
+pessoas mais interessante e divertida através da tecnologia, é o que faz meus olhos
+brilharem!
+  
+  
+
+<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" align="left" height="" width="600" />  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Eduardo377" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/eduardo377" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/eduardogomes377" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eduardo377&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+<br/>  
+
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4i9vjeriexk34pxkdf4aykpcp&cover_image=true&theme=default&bar_color_cover=true&bar_color=4eb16c)  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=Eduardo#77&&style=flat-square)  
+  
+
+<br/>  
+
+<div align="left">
+            <a href="https://paypal.me/Eduardo Gomes" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
+                    align="left"
+                />
+            </a></div>
+<br />
+
+----
