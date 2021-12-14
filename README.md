@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" align="center" style="width: 100%" /> 
 </div>  
   
 
@@ -21,10 +21,6 @@ SQL na Cubos Academy, como bolsista no Programa Cubos Academy e iFood.
 baseadas em Linux. Sou um cara flexível, que tem como missão de vida tornar a vida das
 pessoas mais interessante e divertida através da tecnologia, é o que faz meus olhos
 brilharem!
-  
-  
-
-<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" align="left" height="" width="600" />  
   
 
 <br/>  
