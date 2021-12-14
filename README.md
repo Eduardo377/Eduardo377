@@ -7,23 +7,21 @@
 
 ### <div align="center"> Desenvolvedor full-stack👨‍💻 Estado civil: Em constante apredizado 🚀</div>  
   
-
-- 🔭 Eu nunca tive uma carreira de fato, sempre trabalhei onde tive oportunidade para sobreviver, atualmente sou entregador e vi nessa profissão a possibilidade de estudar e trabalhar para conquistar meus objetivos, ajudar em casa, buscar meu sustento.  
-  
-
-- 🌱A tecnologia me fez enxergar além, me fez sonhar com uma realidade diferente da que eu vivo hoje e finalmente construir uma carreira sólida... Meu objetivo é ficar longe das ruas, ter oportunidade de lazer, ter qualidade de vida, segurança física e financeira.  
-  
-
 - 😉 Du, Dudu e Edu são os melhores apelidos que um Geek poderia querer! Movido a
 desafios, atualmente, estou aprendendo a programar com React, HTML, CSS, JavaScript,
 SQL na Cubos Academy, como bolsista no Programa Cubos Academy e iFood.   
   
-
+###
 - ⚡ Familiarizado com sistemas operacionais como Windows, Android, Linux e plataformas
 baseadas em Linux. Sou um cara flexível, que tem como missão de vida tornar a vida das
 pessoas mais interessante e divertida através da tecnologia, é o que faz meus olhos
 brilharem!
+
+###
+- 🔭 Eu nunca tive uma carreira de fato, sempre trabalhei onde tive oportunidade para sobreviver, atualmente sou entregador e vi nessa profissão a possibilidade de estudar e trabalhar para conquistar meus objetivos, ajudar em casa, buscar meu sustento.  
   
+###
+- 🌱A tecnologia me fez enxergar além, me fez sonhar com uma realidade diferente da que eu vivo hoje e finalmente construir uma carreira sólida... Meu objetivo é ficar longe das ruas, ter oportunidade de lazer, ter qualidade de vida, segurança física e financeira.
 
 <br/>  
 
@@ -36,8 +34,7 @@ brilharem!
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -49,7 +46,6 @@ brilharem!
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 </div>
 
