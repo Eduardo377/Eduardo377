@@ -106,20 +106,22 @@ brilharem!
 
 <br/>  
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4i9vjeriexk34pxkdf4aykpcp&cover_image=true&theme=default&bar_color_cover=true&bar_color=4eb16c)  
+<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=4i9vjeriexk34pxkdf4aykpcp&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=4i9vjeriexk34pxkdf4aykpcp&cover_image=true&theme=default" /></div>  
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Eduardo#77&&style=flat-square)  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Eduardo377&&style=flat-square" align="center" />
+</div>  
   
 
 <br/>  
 
 <div align="center">
-            <a href="https://paypal.me/Eduardo Gomes" target="_blank" style="display: inline-block;">
+            <a href="https://paypal.me/Eduardo377" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="left"
+                    align="center"
                 />
             </a></div>
 <br />
