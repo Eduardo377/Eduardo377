@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center" Desenvolvedor full-stack👨‍💻 Estado civil: Em constante apredizado 🚀</div>  
+### <div align="center"> Desenvolvedor full-stack👨‍💻 Estado civil: Em constante apredizado 🚀</div>  
   
 
 - 🔭 Eu nunca tive uma carreira de fato, sempre trabalhei onde tive oportunidade para sobreviver, atualmente sou entregador e vi nessa profissão a possibilidade de estudar e trabalhar para conquistar meus objetivos, ajudar em casa, buscar meu sustento.  
