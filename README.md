@@ -45,7 +45,7 @@ brilharem!
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-<img style="margin: 10px" src="https://www.clipartkey.com/mpngs/m/239-2390889_express-clothing-logo-png.png" alt="Express.js" height="50" />
+<img style="margin: 10px" src="https://www.clipartkey.com/mpngs/m/239-2390889_express-clothing-logo-png.png" alt="Express.js" height="20" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 </div>
 
