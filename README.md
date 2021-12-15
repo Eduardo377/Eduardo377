@@ -26,7 +26,7 @@ brilharem!
 <br/>  
 
 ### <div align="center"> My Skill Set </div>  
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 
 
