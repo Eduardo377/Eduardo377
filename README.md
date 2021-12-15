@@ -32,10 +32,10 @@ brilharem!
 
 ### <h4>Front end</h4>
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" />
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/35434628/146126686-419f1cc7-dd5d-4b7e-a223-d51b9debd76d.png" alt="CSS3" height="80" /> 
-<img style="margin: 10px" src="https://cdn1.iconfinder.com/data/icons/social-icon-2-1/512/social_style_2_html5-512.png" alt="HTML5" height="80" />
-<img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="javascript" height="80" />      
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" /><br/><br/>
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/35434628/146126686-419f1cc7-dd5d-4b7e-a223-d51b9debd76d.png" alt="CSS3" height="80" /><br/><br/>
+<img style="margin: 10px" src="https://cdn1.iconfinder.com/data/icons/social-icon-2-1/512/social_style_2_html5-512.png" alt="HTML5" height="80" /><br/><br/>
+<img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="javascript" height="80" /><br/><br/>
 </div>
 
 </td><td valign="top" width="33%">
@@ -56,12 +56,12 @@ brilharem!
 
 ### <h4>DevOps</h4>
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
-<img style="margin: 10px" alt="Visual Studio Code" height="50"" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /><br/><br/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /><br/><br/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /><br/><br/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /><br/><br/>
+<img style="margin: 10px" alt="Visual Studio Code" height="50"" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><br/><br/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /><br/><br/>
 </div>
 
 </td></tr></table>  
