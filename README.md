@@ -32,8 +32,8 @@ brilharem!
 
 ### <h4>Front end</h4>
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />  
-<img style="margin: 10px" src="http://kaioferreira.blog.br/wp-content/uploads/2018/02/logo-artigo-html.png" alt="HTML5-CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="http://kaioferreira.blog.br/wp-content/uploads/2018/02/logo-artigo-html.png" alt="HTML5-CSS3" height="75" />  
 </div>
 
 </td><td valign="top" width="33%">
