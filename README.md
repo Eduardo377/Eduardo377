@@ -92,9 +92,9 @@ brilharem!
 <br/>
 
 #
- 
+ ## Github Stats 
  <div align="center">
-  ## Github Stats 
+
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo377&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo377)](https://github.com/anuraghazra/github-readme-stats)
   
