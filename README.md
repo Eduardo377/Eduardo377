@@ -33,7 +33,8 @@ brilharem!
 ### <h4>Front end</h4>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" />  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/35434628/146126686-419f1cc7-dd5d-4b7e-a223-d51b9debd76d.png" alt="HTML5-CSS3" height="80" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/35434628/146126686-419f1cc7-dd5d-4b7e-a223-d51b9debd76d.png" alt="HTML5-CSS3" height="80" /> 
+<img style="margin: 10px" src="https://cdn1.iconfinder.com/data/icons/social-icon-2-1/512/social_style_2_html5-512.png" alt="HTML5-CSS3" height="80" />   
 </div>
 
 </td><td valign="top" width="33%">
