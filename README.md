@@ -25,7 +25,6 @@ brilharem!
 
 <br/>  
 
-<div>
 
 <table align="center">
 
@@ -96,11 +95,7 @@ brilharem!
 
 </td>
 
-
 </table>
-
-</div>
-
 
 ## Connect with me  
 <div align="center">
