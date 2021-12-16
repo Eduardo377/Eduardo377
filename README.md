@@ -25,6 +25,11 @@ brilharem!
 
 <br/>  
 
+
+<div>
+
+<div>
+
 ### <div align="center"> My Skill Set </div>  
 <table align="center"><tr><td valign="top" width="33%">
 
@@ -62,12 +67,30 @@ brilharem!
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /><br/><br/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /><br/><br/>
 <img style="margin: 10px" alt="Visual Studio Code" height="50"" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><br/><br/>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /><br/><br/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /><br/>
+
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+
+</div>
+
+<div>
+
+#
+ ## Github Stats 
+ <div align="center">
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo377&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo377)](https://github.com/anuraghazra/github-readme-stats)
+  
+   </div>
+   
+#
+</div>
+
+</div>
 
 
 ## Connect with me  
@@ -84,23 +107,7 @@ brilharem!
 </div>  
   
 
-<br/>  
-
-<br/>  
-
-
 <br/>
-
-#
- ## Github Stats 
- <div align="center">
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo377&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo377)](https://github.com/anuraghazra/github-readme-stats)
-  
-   </div>
-   
-#
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=4i9vjeriexk34pxkdf4aykpcp&cover_image=true&theme=default&bar_color_cover=true" /></div>  
 
