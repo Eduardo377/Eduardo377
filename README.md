@@ -83,17 +83,23 @@ brilharem!
 </a>  
 </div>
 <br/>
-
+<div>
+<div>
 #
  ## Github Stats 
  <div align="center">
 
- [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo377&show_icons=true&theme=synthwave)
- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo377)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo377&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo377)](https://github.com/anuraghazra/github-readme-stats)
   
-   </div>
-   
+   </div> 
 #
+
+</div>
+<div>
+
+</div>
+</div>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=4i9vjeriexk34pxkdf4aykpcp&cover_image=true&theme=default&bar_color_cover=true" /></div>  
 
