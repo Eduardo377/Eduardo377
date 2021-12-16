@@ -88,8 +88,8 @@ brilharem!
  ## Github Stats 
  <div align="center">
 
- [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo377&show_icons=true&theme=synthwave)]
- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo377)]
+ [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo377&show_icons=true&theme=synthwave)
+ [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo377)
   
    </div>
    
