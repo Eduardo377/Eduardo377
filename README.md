@@ -25,9 +25,9 @@ brilharem!
 
 <br/>  
 
-<div align="center">
+<div>
 
-<table>
+<table align="center">
 
 <td>
 
@@ -73,12 +73,12 @@ brilharem!
 
 <div align="center">
 
- ## <h4 align="center">Top Langs</h4>
+ ### <h4 align="center">Top Langs</h4>
 
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo377&layout=compact&theme=vision-friendly-dark" alt="Eduardo377's stats" />
  <br/>
 
- ## <h4 align="center">Github Stats</h4>
+ ### <h4 align="center">Github Stats</h4>
  
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Eduardo377&show_icons=true&theme=vision-friendly-dark" alt="Eduardo377's stats" />
 
