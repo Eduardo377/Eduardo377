@@ -81,10 +81,16 @@ brilharem!
 <a href="https://linkedin.com/in/eduardogomes377" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>
+</div>  
+  
+
+<br/>  
+
+<br/>  
+
+
 <br/>
-<div>
-<div>
+
 #
  ## Github Stats 
  <div align="center">
@@ -92,14 +98,9 @@ brilharem!
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo377&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo377)](https://github.com/anuraghazra/github-readme-stats)
   
-   </div> 
+   </div>
+   
 #
-
-</div>
-<div>
-
-</div>
-</div>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=4i9vjeriexk34pxkdf4aykpcp&cover_image=true&theme=default&bar_color_cover=true" /></div>  
 
