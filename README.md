@@ -75,13 +75,19 @@ brilharem!
 
  ### <div align="center">Top Langs</div>
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo377&layout=compact&theme=vision-friendly-dark" alt="Eduardo377's stats" />
- <br/>
+<div align="center" style="display: inline_block">
+  <a align="center" href="https://github.com/Eduardo377">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo377&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
 
  ### <div align="center">Github Stats</div>
  
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Eduardo377&show_icons=true&theme=synthwave" alt="Eduardo377's stats" />
-
+<div align="center" style="display: inline_block">
+  <a align="center" href="https://github.com/Eduardo377">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Eduardo377&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
 
 </div>
 
