@@ -58,7 +58,7 @@ brilharem!
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /><br/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /><br/>
-<img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8ZueF68d2LOFkvZzxc3Wh96CsW2CRqcsuQ6a-k4sPftYvjcUsGihXseoZdyinYQ4v2I&usqp=CAU" alt="Node.js" height="50" /><br/>
+<img style="margin: 10px" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="Node.js" height="50" /><br/>
 <img style="margin: 10px" alt="Visual Studio Code" height="50"" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><br/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /><br/>
 
