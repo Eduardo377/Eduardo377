@@ -29,7 +29,7 @@ brilharem!
 
 <td>
 
-### <div align="center"> My Skill Set </div>  
+### <div align="center" valign="top"> My Skill Set </div>  
 <table><tr align="center"><td valign="top">
 
 ### <h4>Front end</h4>
