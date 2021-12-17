@@ -113,7 +113,7 @@ brilharem!
 </a>
 <a href="https://linkedin.com/in/eduardogomes377" target="_blank">
 <img src=https://i.redd.it/0utml758tfrx.png
- alt="discord" width="15%" style="margin-bottom: 5px;" />
+ alt="discord" width="89px;" style="margin-bottom: 5px;" />
 </a>
 </div>  
   
