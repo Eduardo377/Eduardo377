@@ -35,9 +35,8 @@ brilharem!
 
 ### <h4>Front end</h4>
 <div align="center">
-<img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="javascript" height="80" /><br/><br/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" /><br/>
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/35434628/146126686-419f1cc7-dd5d-4b7e-a223-d51b9debd76d.png" alt="CSS3" height="80" /><br/><br/>
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/35434628/146126686-419f1cc7-dd5d-4b7e-a223-d51b9debd76d.png" alt="CSS3" height="80" /><br/>
 <img style="margin: 10px" src="https://cdn1.iconfinder.com/data/icons/social-icon-2-1/512/social_style_2_html5-512.png" alt="HTML5" height="80" /><br/>
 
 </div>
@@ -45,11 +44,12 @@ brilharem!
 </td><td valign="top" width="33%">
 
 ### <h4>Back end</h4>
-<div align="center">  
-<img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="javascript" height="80" /><br/><br/>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /><br/>
+<div align="center">
+<img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="javascript" height="80" /><br/>
+<img style="margin: 10px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+typescript-1324451621385093834.png" alt="TypeScript" height="50" /><br/>
 <img style="margin: 10px" src="https://www.clipartkey.com/mpngs/m/239-2390889_express-clothing-logo-png.png" alt="Express.js" height="20" /><br/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /><br/>
+<img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/smashicons-file-types-webby/58/25_-_JSON_File_Webby-256.png" alt="PostgreSQL" height="50" /><br/>
 </div>
 
 </td><td valign="top" width="33%">
