@@ -60,6 +60,8 @@ brilharem!
 <img style="margin: 10px" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="Node.js" height="80" /><br/>
 <img style="margin: 10px" alt="Visual Studio Code" height="80"" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><br/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="80" /><br/>
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png" alt="Heruku" height="80" /><br/>
+<img style="margin: 10px" src="https://media.vlpt.us/images/ksmfou98/post/de191393-0b90-4f48-a753-f0a2606daae6/netlify-logo.png" alt="netlify" height="50" /><br/>
 
 </div>
 
@@ -78,31 +80,24 @@ brilharem!
 
  ### <div align="center">Github Stats</div>
  
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Eduardo377&show_icons=true&theme=vision-friendly-dark" alt="Eduardo377's stats" />
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Eduardo377&show_icons=true&theme=synthwave" alt="Eduardo377's stats" />
 
- <!-- ## <h4 align="center">Top Langs</h4>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo377)](https://github.com/anuraghazra/github-readme-stats)
-  
- <br/>
-
- ## <h4 align="center">Github Stats</h4>
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo377&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </div>
 
+<div align="center">
+
+## <div> Formação Acadêmica</div>
+
+ <img width="280" src="https://i.imgur.com/LpY2nT4.png" alt="cubos academy"  style="border-radius: 80px;" />
+</div>
 </td>
 
 </table>
 
-## Formação Acadêmica
-
- <img align="center" width="280" src="https://i.imgur.com/LpY2nT4.png" alt="cubos academy"  style="border-radius: 80px;" />
+## <div align="center"> Connect with me  </div>
 
 
-
-## Connect with me  
 <div align="center">
 <a href="https://github.com/Eduardo377" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
@@ -114,14 +109,18 @@ brilharem!
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href = "mailto: eduardogome377@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt=linkedin style="margin-bottom: 5px;">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;">
 </a>
 <a href="https://linkedin.com/in/eduardogomes377" target="_blank">
 <img src=https://i.redd.it/0utml758tfrx.png
  alt="discord" width="89px;" style="margin-bottom: 5px;" />
 </a>
+<a href="https://pt.stackoverflow.com/users/259231/eduardo377" target="_blank">
+<img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.png"
+ alt="Stack Overflow" width="150px;" style="margin-bottom: 5px;" />
+</a>
 </div>  
-  
+
 <br/>
 
 <div align="center">
