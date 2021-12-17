@@ -25,6 +25,7 @@ brilharem!
 
 <br/>  
 
+<details>
 
 <table align="center">
 
@@ -97,6 +98,11 @@ brilharem!
 
 </table>
 
+
+## Formação Acadêmica
+ <img align="center" width="80" src="https://cubos.io/marca-cubosacademy.4a9e1907.svg" alt="cubos academy" />
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Eduardo377" target="_blank">
@@ -117,6 +123,7 @@ brilharem!
 </a>
 </div>  
   
+</details>
 <br/>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=4i9vjeriexk34pxkdf4aykpcp&cover_image=true&theme=default&bar_color_cover=true" /></div>  
@@ -125,18 +132,7 @@ brilharem!
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Eduardo377&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/Eduardo377" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+</div>
 <br />
 
 ----
