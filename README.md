@@ -24,7 +24,6 @@ brilharem!
 - 🌱A tecnologia me fez enxergar além, me fez sonhar com uma realidade diferente da que eu vivo hoje e finalmente construir uma carreira sólida... Meu objetivo é ficar longe das ruas, ter oportunidade de lazer, ter qualidade de vida, segurança física e financeira.
 
 <br/>  
-<details style="color: red;>
 
 <table align="center">
 
@@ -120,8 +119,7 @@ brilharem!
 <img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.png"
  alt="Stack Overflow" width="150px;" style="margin-bottom: 5px;" />
 </a>
-</div>
-</details>
+</div>  
 
 <br/>
 
