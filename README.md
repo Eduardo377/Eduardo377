@@ -25,8 +25,6 @@ brilharem!
 
 <br/>  
 
-<details>
-
 <table align="center">
 
 <td>
@@ -100,7 +98,7 @@ brilharem!
 
 
 ## Formação Acadêmica
- <img align="center" width="80" src="https://cubos.io/marca-cubosacademy.4a9e1907.svg" alt="cubos academy" />
+ <img align="center" width="280" src="https://i.imgur.com/LpY2nT4.png" alt="cubos academy"  style="border-radius: 80px;" />
 
 
 ## Connect with me  
@@ -123,7 +121,6 @@ brilharem!
 </a>
 </div>  
   
-</details>
 <br/>
 
 <div align="center">
