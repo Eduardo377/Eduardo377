@@ -111,7 +111,7 @@ brilharem!
 <a href = "mailto: eduardogome377@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;">
 </a>
-<a href="https://linkedin.com/in/eduardogomes377" target="_blank">
+<a href="https://discord.com/channels/#8875/" target="_blank">
 <img src=https://i.redd.it/0utml758tfrx.png
  alt="discord" width="89px;" style="margin-bottom: 5px;" />
 </a>
