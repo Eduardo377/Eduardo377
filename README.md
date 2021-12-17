@@ -98,7 +98,7 @@ brilharem!
 
 
 ## Formação Acadêmica
- <img align="center" width="280" src="https://i.imgur.com/LpY2nT4.png" alt="cubos academy"  style="border-radius: 80px;" />
+ <img align="center" width="280" src="https://i.imgur.com/LpY2nT4.png" alt="cubos academy"  style="radius: 80px;" />
 
 
 ## Connect with me  
