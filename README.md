@@ -46,10 +46,10 @@ brilharem!
 ### <h4>Back end</h4>
 <div align="center">
 <img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="javascript" height="80" /><br/>
-<img style="margin: 10px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+typescript-1324451621385093834.png" alt="TypeScript" height="50" /><br/>
+<img style="margin: 10px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+typescript-1324451621385093834.png" alt="TypeScript" height="80" /><br/>
 <img style="margin: 10px" src="https://www.clipartkey.com/mpngs/m/239-2390889_express-clothing-logo-png.png" alt="Express.js" height="20" /><br/>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /><br/>
-<img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/smashicons-file-types-webby/58/25_-_JSON_File_Webby-256.png" alt="PostgreSQL" height="50" /><br/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="80" /><br/>
+<img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/smashicons-file-types-webby/58/25_-_JSON_File_Webby-256.png" alt="JSON" height="80" /><br/>
 </div>
 
 </td><td valign="top" width="33%">
@@ -58,7 +58,7 @@ brilharem!
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /><br/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /><br/>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /><br/>
+<img style="margin: 10px" src="https://icon-library.com/images/node-js-icon/node-js-icon-15.jpg" alt="Node.js" height="50" /><br/>
 <img style="margin: 10px" alt="Visual Studio Code" height="50"" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><br/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /><br/>
 
