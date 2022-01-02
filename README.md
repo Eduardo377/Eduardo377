@@ -108,6 +108,17 @@ brilharem!
 
 </details>
 
+## <div align="center"> Portfólio </div>
+
+ <div align="center">  
+
+   
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo377&repo=Cubos_Flix&show_owner=true)](https://github.com/Eduardo377/Cubos_Flix)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo377&repo=Cubos_Flix&show_owner=true)](https://github.com/Eduardo377/Cubos_Flix)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo377&repo=Cubos_Flix&show_owner=true)](https://github.com/Eduardo377/Cubos_Flix)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo377&repo=Cubos_Flix&show_owner=true)](https://github.com/Eduardo377/Cubos_Flix)
+ </div>
+
 ## <div align="center"> Connect with me  </div>
 
 
