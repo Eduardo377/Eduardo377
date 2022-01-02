@@ -27,6 +27,8 @@ brilharem!
 
 
 
+<details>
+
 <table>
 <tr>
 
@@ -103,6 +105,8 @@ brilharem!
 </td>
 </tr>
 </table>
+
+</details>
 
 ## <div align="center"> Connect with me  </div>
 
