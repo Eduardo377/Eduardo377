@@ -115,7 +115,7 @@ brilharem!
    
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo377&repo=Cubos_Flix&show_owner=true)](https://github.com/Eduardo377/Cubos_Flix)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo377&repo=Sistema-de-controle-financeiro-e-cobrancas&show_owner=true)](https://github.com/Eduardo377/Sistema-de-controle-financeiro-e-cobrancas)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo377&repo=Cubos_Flix&show_owner=true)](https://github.com/Eduardo377/Cubos_Flix)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo377&repo=layout-sistema-de-controle-financeiro-e-cobrancas&show_owner=true)](https://github.com/Eduardo377/layout-sistema-de-controle-financeiro-e-cobrancas)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo377&repo=Cubos_Flix&show_owner=true)](https://github.com/Eduardo377/Cubos_Flix)
  </div>
 
