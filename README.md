@@ -1,7 +1,7 @@
 ## <div align="center"> Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Sou Eduardo Gomes! Seja bem vindo <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></div>
 
 <div align="center">
-<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" align="center" style="width: 100%" /> 
+<img src="./pictures/snake.svg" align="center" style="width: 100%" /> 
 </div>  
   
 
@@ -116,6 +116,7 @@ brilharem!
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo377&repo=Cubos_Flix&show_owner=true)](https://github.com/Eduardo377/Cubos_Flix)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo377&repo=Sistema-de-controle-financeiro-e-cobrancas&show_owner=true)](https://github.com/Eduardo377/Sistema-de-controle-financeiro-e-cobrancas)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo377&repo=layout-sistema-de-controle-financeiro-e-cobrancas&show_owner=true)](https://github.com/Eduardo377/layout-sistema-de-controle-financeiro-e-cobrancas)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo377&repo=Cubos_Flix&show_owner=true)](https://github.com/Eduardo377/Cubos_Flix)
  </div>
 
 ## <div align="center"> Connect with me  </div>
