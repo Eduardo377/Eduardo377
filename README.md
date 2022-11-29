@@ -1,7 +1,7 @@
-## <div align="center"> Olá! <img src="./pictures/Hi.gif" alt="hi" width="29px"> Sou Eduardo Gomes! Seja bem vindo <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></div>
+## <div align="center"> Olá! <img src="./assets/emoji-assets/Hi.gif" alt="hi" width="29px"> Sou Eduardo Gomes! Seja bem vindo <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></div>
 
 <div align="center">
-<img src="./pictures/snake.svg" alt="snak game" align="center" style="width: 100%" /> 
+<img src="./assets/snake.svg" alt="snake game" align="center" style="width: 100%" /> 
 </div>  
   
 
@@ -27,7 +27,7 @@ brilharem!
 
 
 
-###### <div>  <img src="./pictures/apontaor-indicador.png" width="29px">Clique em<img src="./pictures/apontaor-indicador.png" width="29px"></div>
+###### <div>  <img src="./assets/emoji-assets/apontaor-indicador.pngapontaor-indicador.png" width="29px">Clique em<img src="./assets/emoji-assets/apontaor-indicador.png" width="29px"></div>
 
 <details>
 <table>
@@ -38,17 +38,29 @@ brilharem!
 ## <div align="center" valign="top"> Tecnologias </div>  
 
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" />
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/35434628/146126686-419f1cc7-dd5d-4b7e-a223-d51b9debd76d.png" alt="CSS3" height="80" />
-<img style="margin: 10px" src="https://cdn1.iconfinder.com/data/icons/social-icon-2-1/512/social_style_2_html5-512.png" alt="HTML5" height="80" />
+<img style="margin: 10px" src="./assets/skill-assets/react-original-wordmark.svg" alt="react" height="80" />
+<img style="margin: 10px" src="./assets/skill-assets/css3.png" alt="css3" height="80" />
+<img style="margin: 10px" src="./assets/skill-assets/html5.png" alt="html5" height="80" />
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="80" />
-<img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/smashicons-file-types-webby/58/25_-_JSON_File_Webby-256.png" alt="JSON" height="80" />
-<img style="margin: 10px" alt="GitHub" width="60" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<img style="margin: 10px" src="https://www.clipartkey.com/mpngs/m/239-2390889_express-clothing-logo-png.png" alt="Express.js" height="20" />
+<img style="margin: 10px" src="./assets/skill-assets/postgresql-original-wordmark.svg" alt="postgresql" height="80" />
+<img style="margin: 10px" src="./assets/skill-assets/json.png" alt="json" height="80" />
+<img style="margin: 10px" alt="github" width="60" src="./assets/skill-assets/github.png" />
+<img style="margin: 10px" src="./assets/skill-assets/express.png" alt="express.js" height="20" />
+<img style="margin: 10px" src="./assets/skill-assets/gitlab.png" alt="gitlab.js" height="20" />
 </div>
 
+## <div align="center" valign="top"> Tecnologias </div>  
 
+<div align="center">
+<img style="margin: 10px" src="./assets/skill-assets/react-original-wordmark.svg" alt="react" height="80" />
+<img style="margin: 10px" src="./assets/skill-assets/css3.png" alt="css3" height="80" />
+<img style="margin: 10px" src="./assets/skill-assets/html5.png" alt="html5" height="80" />
+
+<img style="margin: 10px" src="./assets/skill-assets/postgresql-original-wordmark.svg" alt="postgresql" height="80" />
+<img style="margin: 10px" src="./assets/skill-assets/json.png" alt="json" height="80" />
+<img style="margin: 10px" alt="github" width="60" src="./assets/skill-assets/github.svg" />
+<img style="margin: 10px" src="./assets/skill-assets/express.png" alt="Express.js" height="20" />
+</div>
 
 ## <div align="center" valign="top">  Softwares </div>
 
