@@ -1,7 +1,7 @@
-## <div align="center"> Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Sou Eduardo Gomes! Seja bem vindo <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></div>
+## <div align="center"> Olá! <img src="./pictures/Hi.gif" alt="hi" width="29px"> Sou Eduardo Gomes! Seja bem vindo <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></div>
 
 <div align="center">
-<img src="./pictures/snake.svg" align="center" style="width: 100%" /> 
+<img src="./pictures/snake.svg" alt="snak game" align="center" style="width: 100%" /> 
 </div>  
   
 
@@ -27,7 +27,7 @@ brilharem!
 
 
 
-###### <div><img src="https://www.emojiall.com/images/60/skype/1f447.png" width="29px">Clique em<img src="https://www.emojiall.com/images/60/skype/1f447.png" width="29px"></div>
+###### <div>  <img src="./pictures/apontaor-indicador.png" width="29px">Clique em<img src="./pictures/apontaor-indicador.png" width="29px"></div>
 
 <details>
 <table>
@@ -100,7 +100,9 @@ brilharem!
 
 ## <div> Formação Acadêmica</div>
 
- <img width="280" src="https://i.imgur.com/LpY2nT4.png" alt="cubos academy"  style="border-radius: 80px;" />
+  <img width="280" src="./pictures/gama-academy-logo.jpg," alt="gama academy"  style="border-radius: 80px;" />
+
+  <img width="280" src="./pictures/cubos-academy-logo.png" alt="cubos academy"  style="border-radius: 80px;" />
 </div>
 
 </td>
