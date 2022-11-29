@@ -29,9 +29,6 @@ brilharem!
 
 ######  <div >Clique em <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.emojiall.com%2Fpt%2Femoji%2F%25F0%259F%2591%2587&psig=AOvVaw0WEIIcZXTKON8qGyo_gppV&ust=1669780806775000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCw0LDA0vsCFQAAAAAdAAAAABBT" width="29px"></div>
 <details>
-
-
-
 <table>
 <tr>
 
