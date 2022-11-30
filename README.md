@@ -130,6 +130,8 @@ brilharem!
  <div align="center">  
 
    
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo377&repo=desafio1-ifood-front&show_owner=true)](https://github.com/Pam18/desafio1-ifood-front)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo377&repo=desafio1-ifood-back&show_owner=true)](https://github.com/Pam18/desafio1-ifood-back)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo377&repo=Cubos_Flix&show_owner=true)](https://github.com/Eduardo377/Cubos_Flix)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo377&repo=Sistema-de-controle-financeiro-e-cobrancas&show_owner=true)](https://github.com/Eduardo377/Sistema-de-controle-financeiro-e-cobrancas)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo377&repo=layout-sistema-de-controle-financeiro-e-cobrancas&show_owner=true)](https://github.com/Eduardo377/layout-sistema-de-controle-financeiro-e-cobrancas)
