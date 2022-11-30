@@ -77,6 +77,11 @@ brilharem!
 <img style="margin: 10px" src="./assets/db-assets/icon_sql_256_30046.png" alt="sql" height="80" />
 
 
+## <div align="center" valign="top" style="margin: 10px" >  Sistemas Operacionais </div>
+
+<img style="margin: 10px" src="./assets/os-skill/linux_original_logo_icon_146433.png" alt="linux" height="80" />
+<img style="margin: 10px" src="./assets/os-skill/4202097logomicrosoftmswindows-115591_115710.png" alt="windows" height="80" />
+<img style="margin: 10px" src="./assets/os-skill/maclogo_244.png" alt="mac os" height="80" />
 </div>
 
 </td>
@@ -87,11 +92,6 @@ brilharem!
 <div align="center">
 
 
-## <div align="center" valign="top" style="margin: 10px" >  Sistemas Operacionais </div>
-
-<img style="margin: 10px" src="./assets/os-skill/linux_original_logo_icon_146433.png" alt="linux" height="80" />
-<img style="margin: 10px" src="./assets/os-skill/4202097logomicrosoftmswindows-115591_115710.png" alt="windows" height="80" />
-<img style="margin: 10px" src="./assets/os-skill/maclogo_244.png" alt="mac os" height="80" />
 
  ## <div align="center" style="margin: 10px">Top Langs</div>
  
