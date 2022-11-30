@@ -29,7 +29,7 @@ brilharem!
 
 ###### <div>Clique em<img src="./assets/emoji-assets/apontaor-indicador.png" width="29px"></div>
 
-<details open>
+<details>
 <table>
 <tr>
 
@@ -90,8 +90,6 @@ brilharem!
 <td>
 
 <div align="center">
-
-
 
  ## <div align="center" style="margin: 10px">Top Langs</div>
  
