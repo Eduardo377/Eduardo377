@@ -38,7 +38,7 @@ brilharem!
 ## <div align="center" valign="top"> Linguagens de Programação </div>  
 
 <div align="center">
-<img style="margin: 10x" src="./assets/stack-assets/javascript.png" alt="javascript" height="80" />
+<img style="margin: 10px" src="./assets/stack-assets/javascript_original_logo_icon_146455.svg" alt="javascript" height="70" />
 <img style="margin: 10px" src="/assets/stack-assets/java_original_wordmark_logo_icon_146459.png" alt="java" height="80" />
 <img style="margin: 10px;" src="./assets/stack-assets/typescript_original_logo_icon_146317.png" alt="typeScript" height="70" />
 </div>
