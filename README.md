@@ -27,62 +27,58 @@ brilharem!
 
 
 
-###### <div>  <img src="./assets/emoji-assets/apontaor-indicador.pngapontaor-indicador.png" width="29px">Clique em<img src="./assets/emoji-assets/apontaor-indicador.png" width="29px"></div>
+###### <div>Clique em<img src="./assets/emoji-assets/apontaor-indicador.png" width="29px"></div>
 
-<details>
+<details open>
 <table>
 <tr>
 
 <td>
 
-## <div align="center" valign="top"> Tecnologias </div>  
+## <div align="center" valign="top"> Linguagens de Programação </div>  
 
 <div align="center">
-<img style="margin: 10px" src="./assets/skill-assets/react-original-wordmark.svg" alt="react" height="80" />
-<img style="margin: 10px" src="./assets/skill-assets/css3.png" alt="css3" height="80" />
-<img style="margin: 10px" src="./assets/skill-assets/html5.png" alt="html5" height="80" />
-
-<img style="margin: 10px" src="./assets/skill-assets/postgresql-original-wordmark.svg" alt="postgresql" height="80" />
-<img style="margin: 10px" src="./assets/skill-assets/json.png" alt="json" height="80" />
-<img style="margin: 10px" alt="github" width="60" src="./assets/skill-assets/github.png" />
-<img style="margin: 10px" src="./assets/skill-assets/express.png" alt="express.js" height="20" />
-<img style="margin: 10px" src="./assets/skill-assets/gitlab.png" alt="gitlab.js" height="20" />
+<img style="margin: 10x" src="./assets/stack-assets/javascript.png" alt="javascript" height="80" />
+<img style="margin: 10px"" src="/assets/stack-assets/java_original_wordmark_logo_icon_146459.png" alt="java" height="80" />
+<img style="margin: 10px;" src="./assets/stack-assets/typescript_original_logo_icon_146317.png" alt="typeScript" height="70" />
 </div>
 
 ## <div align="center" valign="top"> Tecnologias </div>  
 
 <div align="center">
-<img style="margin: 10px" src="./assets/skill-assets/react-original-wordmark.svg" alt="react" height="80" />
-<img style="margin: 10px" src="./assets/skill-assets/css3.png" alt="css3" height="80" />
-<img style="margin: 10px" src="./assets/skill-assets/html5.png" alt="html5" height="80" />
+<img style="margin: 10px" src="./assets/skill-assets/png/react_original_wordmark_logo_icon_146375.png" alt="react" height="85" />
+<img style="margin: 10px" src="./assets/skill-assets/png/css_original_wordmark_logo_icon_146576.png" alt="css3" height="80" />
+<img style="margin: 10px" src="./assets/skill-assets/png/html_original_wordmark_logo_icon_146478.png" alt="html5" height="80" />
 
-<img style="margin: 10px" src="./assets/skill-assets/postgresql-original-wordmark.svg" alt="postgresql" height="80" />
-<img style="margin: 10px" src="./assets/skill-assets/json.png" alt="json" height="80" />
-<img style="margin: 10px" alt="github" width="60" src="./assets/skill-assets/github.svg" />
-<img style="margin: 10px" src="./assets/skill-assets/express.png" alt="Express.js" height="20" />
+<img style="margin: 10px" src="./assets/skill-assets/png/json_filetype_icon_177531.png" alt="json" height="80" />
+
+<img style="margin: 10px" src="./assets/skill-assets/png/gitlab_original_wordmark_logo_icon_146504.png" alt="gitlab" height="80" />
+
+<img style="margin: 10px" alt="github" height="80"  src="./assets/skill-assets/png/github_original_wordmark_logo_icon_146506.png" />
+<img style="margin: 10px" src="./assets/skill-assets/png/express.png" alt="Express.js" height="40" />
+<img style="margin: 10px" src="./assets/skill-assets/node-js-icon-8 (1).jpg" alt="Node.js" height="80" />
 </div>
+
 
 ## <div align="center" valign="top">  Softwares </div>
 
 
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="80" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="80" />
-<img style="margin: 10px" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="Node.js" height="80" />
-<img style="margin: 10px" alt="Visual Studio Code" height="80"" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img style="margin: 10px" src="./assets/skill-assets/png/git_original_wordmark_logo_icon_146510.png" alt="Git" height="80" />
+<img style="margin: 10px" alt="Visual Studio Code" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="80" />
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png" alt="Heruku" height="80" />
 <img style="margin: 10px" src="https://media.vlpt.us/images/ksmfou98/post/de191393-0b90-4f48-a753-f0a2606daae6/netlify-logo.png" alt="netlify" height="50" />
 
+## <div align="center" valign="top">  Database </div>
+
+<img style="margin: 10px" src="./assets/db-assets/postgresql_original_wordmark_logo_icon_146392.svg" alt="postgresql" height="85" />
+<img style="margin: 10px" src="./assets/db-assets/mysql_original_wordmark_logo_icon_146417.svg" alt="mysql" height="100" />
+<img style="margin: 10px" src="./assets/db-assets/icon_sql_256_30046.png" alt="sql" height="80" />
+
+
 </div>
 
-
-## <div align="center" valign="top"> Linguagens de Programação </div>  
-
-<div align="center">
-<img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="javascript" height="80" />
-<img style="margin: 10px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+typescript-1324451621385093834.png" alt="TypeScript" height="80" />
-</div>
 </td>
 
 
@@ -90,15 +86,22 @@ brilharem!
 
 <div align="center">
 
- ### <div align="center">Top Langs</div>
 
+## <div align="center" valign="top" style="margin: 10px" >  Sistemas Operacionais </div>
+
+<img style="margin: 10px" src="./assets/os-skill/linux_original_logo_icon_146433.png" alt="linux" height="80" />
+<img style="margin: 10px" src="./assets/os-skill/4202097logomicrosoftmswindows-115591_115710.png" alt="windows" height="80" />
+<img style="margin: 10px" src="./assets/os-skill/maclogo_244.png" alt="mac os" height="80" />
+
+ ### <div align="center" style="margin: 10px">Top Langs</div>
+ 
 <div align="center" style="display: inline_block">
   <a align="center" href="https://github.com/Eduardo377">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo377&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
- ### <div align="center">Github Stats</div>
+ ### <div align="center"  style="margin: 10px">Github Stats</div>
  
 <div align="center" style="display: inline_block">
   <a align="center" href="https://github.com/Eduardo377">
@@ -112,9 +115,10 @@ brilharem!
 
 ## <div> Formação Acadêmica</div>
 
-  <img width="280" src="./pictures/gama-academy-logo.jpg," alt="gama academy"  style="border-radius: 80px;" />
+  <img width="280" src="https://i.imgur.com/LpY2nT4.png" alt="gama academy"  style="border-radius: 80px" />
 
-  <img width="280" src="./pictures/cubos-academy-logo.png" alt="cubos academy"  style="border-radius: 80px;" />
+  <img width="280" src="https://capitaldigital.com.br/wp-content/uploads/2020/09/kzv4wwbbh6sai7cwqyu8.jpg" alt="cubos academy"  style="border-radius: 80px" />
+
 </div>
 
 </td>
