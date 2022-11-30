@@ -158,8 +158,12 @@ brilharem!
  alt="discord" width="89px;" style="margin-bottom: 5px;" />
 </a>
 <a href="https://pt.stackoverflow.com/users/259231/eduardo377" target="_blank">
-<img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.png"
- alt="Stack Overflow" width="150px;" style="margin-bottom: 5px;" />
+<img src="./assets/Stack_Overflow_Logo.png"
+ alt="stack overflow" width="150" height="28px" style="margin-bottom: 5px;" />
+</a>
+<a href="https://gitlab.com/eduardo377" target="_blank">
+<img src="./assets/gitlab.webp"
+ alt="gitlab" width="85px;" style="margin-bottom: 5px;" />
 </a>
 </div>  
 
