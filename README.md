@@ -64,7 +64,7 @@ brilharem!
 
 
 <div align="center">  
-<img style="margin: 10px" src="./assets/skill-assets/png/git_original_wordmark_logo_icon_146510.png" alt="Git" height="80" />
+<img style="margin: 10px" src="./assets/skill-assets/png/git_original_wordmark_logo_icon_146510.png" alt="Git" height="110" />
 <img style="margin: 10px" alt="Visual Studio Code" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="80" />
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png" alt="Heruku" height="80" />
@@ -93,7 +93,7 @@ brilharem!
 <img style="margin: 10px" src="./assets/os-skill/4202097logomicrosoftmswindows-115591_115710.png" alt="windows" height="80" />
 <img style="margin: 10px" src="./assets/os-skill/maclogo_244.png" alt="mac os" height="80" />
 
- ### <div align="center" style="margin: 10px">Top Langs</div>
+ ## <div align="center" style="margin: 10px">Top Langs</div>
  
 <div align="center" style="display: inline_block">
   <a align="center" href="https://github.com/Eduardo377">
@@ -101,7 +101,7 @@ brilharem!
   </a>
 </div>
 
- ### <div align="center"  style="margin: 10px">Github Stats</div>
+## <div align="center"  style="margin: 10px">Github Stats</div>
  
 <div align="center" style="display: inline_block">
   <a align="center" href="https://github.com/Eduardo377">
