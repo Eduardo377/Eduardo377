@@ -1,8 +1,8 @@
 ## <div align="center"> Olá! <img src="./assets/emoji-assets/Hi.gif" alt="hi" width="29px"> Sou Eduardo Gomes! Seja bem vindo <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></div>
 
-<!-- <div align="center">
+<div align="center">
 <img src="./assets/snake.svg" alt="snake game" align="center" style="width: 100%" /> 
-</div>   -->
+</div>
 
 ![Snake animation](https://github.com/Eduardo377/Eduardo377/blob/output/github-user-contribution.svg)
   
