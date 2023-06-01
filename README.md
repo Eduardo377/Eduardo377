@@ -27,20 +27,17 @@
 ###
 - 🌱 Minha paixão pela tecnologia me fez enxergar além das minhas circunstâncias atuais e me inspirou a buscar uma carreira sólida como desenvolvedor. Meu objetivo é crescer profissionalmente, ter estabilidade financeira e uma vida com mais qualidade, longe das dificuldades que enfrentei no passado.
 
-<details>
-
-###
-- 📞 Entre em contato comigo pelo telefone (21) 9 8264-6297 / 9 7341-2873 ou pelo e-mail eduardogomes377@gmail.com. Estou disponível para oportunidades de emprego e animado para fazer parte de projetos desafiadores onde possa contribuir com minhas habilidades e continuar aprendendo.
-
-</details>
 
 <br/>  
 
 
-
 ###### <div>Clique em<img src="./assets/emoji-assets/apontaor-indicador.png" width="29px"></div>
 
-<details>
+<details open>
+  <summary>Alguns detalhes</summary>
+
+###
+- 📞 Entre em contato comigo pelo telefone (21) 9 8264-6297 / 9 7341-287, chame no [WhatsApp](https://wa.me/5521982646297) <img src="./assets/indicadorReverso.png"> (só clicar) ou pelo e-mail eduardogomes377@gmail.com. Estou disponível para oportunidades de emprego e animado para fazer parte de projetos desafiadores onde possa contribuir com minhas habilidades e continuar aprendendo.
 <table>
 <tr>
 
@@ -54,38 +51,44 @@
 <img style="margin: 10px;" src="./assets/stack-assets/typescript_original_logo_icon_146317.png" alt="typeScript" height="70" />
 </div>
 
-## <div align="center" valign="top"> Tecnologias </div>  
+## <div align="center" valign="top"> Tecnologias de marcação </div>  
 
 <div align="center">
-<img style="margin: 10px" src="./assets/skill-assets/png/react_original_wordmark_logo_icon_146375.png" alt="react" height="85" />
-<img style="margin: 10px" src="./assets/skill-assets/png/css_original_wordmark_logo_icon_146576.png" alt="css3" height="80" />
 <img style="margin: 10px" src="./assets/skill-assets/png/html_original_wordmark_logo_icon_146478.png" alt="html5" height="80" />
+<img style="margin: 10px" src="./assets/skill-assets/png/css_original_wordmark_logo_icon_146576.png" alt="css3" height="80" />
+<img style="margin: 10px" src="./assets/skill-assets/png/react_original_wordmark_logo_icon_146375.png" alt="react" height="85" />
+<img style="margin: 10px" src="./assets/skill-assets/next.js-logo.webp" alt="next.js" height="80" />
+<img style="margin: 10px" src="./assets/skill-assets/Tailwind_CSS_Logo.svg" alt="Tailwind_CSS" height="95" style="margin: 1000px" />
+<img style="margin: 10px" src="./assets/skill-assets/bootstrap-4096.png" alt="bootstrap" height="80" />
 
-<img style="margin: 10px" src="./assets/skill-assets/png/json_filetype_icon_177531.png" alt="json" height="80" />
-
-<img style="margin: 10px" src="./assets/skill-assets/png/gitlab_original_wordmark_logo_icon_146504.png" alt="gitlab" height="80" />
-
-<img style="margin: 10px" alt="github" height="80"  src="./assets/skill-assets/png/github_original_wordmark_logo_icon_146506.png" />
-<img style="margin: 10px" src="./assets/skill-assets/png/express.png" alt="Express.js" height="40" />
-<img style="margin: 10px" src="./assets/skill-assets/node-js-icon-8 (1).jpg" alt="Node.js" height="80" />
 </div>
-
-
-## <div align="center" valign="top">  Softwares </div>
-
-
-<div align="center">  
-<img style="margin: 10px" src="./assets/skill-assets/png/git_original_wordmark_logo_icon_146510.png" alt="Git" height="110" />
-<img style="margin: 10px" alt="Visual Studio Code" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="80" />
-<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png" alt="Heruku" height="80" />
-<img style="margin: 10px" src="https://media.vlpt.us/images/ksmfou98/post/de191393-0b90-4f48-a753-f0a2606daae6/netlify-logo.png" alt="netlify" height="50" />
 
 ## <div align="center" valign="top">  Database </div>
 
 <img style="margin: 10px" src="./assets/db-assets/postgresql_original_wordmark_logo_icon_146392.svg" alt="postgresql" height="85" />
 <img style="margin: 10px" src="./assets/db-assets/mysql_original_wordmark_logo_icon_146417.svg" alt="mysql" height="100" />
 <img style="margin: 10px" src="./assets/db-assets/icon_sql_256_30046.png" alt="sql" height="80" />
+<img style="margin: 10px" src="./assets/db-assets/sqlite-database-logo.png" alt="sqlite" height="120" />
+
+
+## <div align="center" valign="top"> Ferramentas </div>
+
+<img style="margin: 10px" alt="Visual Studio Code" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+
+## <div align="center" valign="top">  Softwares </div>
+
+<img style="margin: 10px" src="./assets/skill-assets/png/gitlab_original_wordmark_logo_icon_146504.png" alt="gitlab" height="80" />
+
+<img style="margin: 10px" alt="github" height="80"  src="./assets/skill-assets/png/github_original_wordmark_logo_icon_146506.png" />
+<img style="margin: 10px" src="./assets/skill-assets/png/express.png" alt="Express.js" height="40" />
+<img style="margin: 10px" src="./assets/skill-assets/node-js-icon-8 (1).jpg" alt="Node.js" height="80" />
+
+<div align="center">  
+<img style="margin: 10px" src="./assets/skill-assets/png/git_original_wordmark_logo_icon_146510.png" alt="Git" height="110" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="80" />
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png" alt="Heruku" height="80" />
+<img style="margin: 10px" src="https://media.vlpt.us/images/ksmfou98/post/de191393-0b90-4f48-a753-f0a2606daae6/netlify-logo.png" alt="netlify" height="50" />
 
 
 ## <div align="center" valign="top" style="margin: 10px" >  Sistemas Operacionais </div>
