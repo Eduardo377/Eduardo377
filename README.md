@@ -4,7 +4,7 @@
 <img src="./assets/snake.svg" alt="snake game" align="center" style="width: 100%" /> 
 </div>   -->
 
-![Snake animation](https://github.com/Eduardo377/Eduardo377/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Eduardo377/Eduardo377/blob/output/github-user-contribution.svg)
   
 
 ### <div align="center"> Desenvolvedor full-stack👨‍💻 Estado civil: Em constante apredizado 🚀</div>  
