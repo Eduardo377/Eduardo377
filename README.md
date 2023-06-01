@@ -1,8 +1,10 @@
 ## <div align="center"> Olá! <img src="./assets/emoji-assets/Hi.gif" alt="hi" width="29px"> Sou Eduardo Gomes! Seja bem vindo <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></div>
 
-<div align="center">
+<!-- <div align="center">
 <img src="./assets/snake.svg" alt="snake game" align="center" style="width: 100%" /> 
-</div>  
+</div>   -->
+
+![Snake animation](https://github.com/Eduardo377/Eduardo377/blob/output/github-contribution-grid-snake.svg)
   
 
 ### <div align="center"> Desenvolvedor full-stack👨‍💻 Estado civil: Em constante apredizado 🚀</div>  
@@ -25,8 +27,12 @@
 ###
 - 🌱 Minha paixão pela tecnologia me fez enxergar além das minhas circunstâncias atuais e me inspirou a buscar uma carreira sólida como desenvolvedor. Meu objetivo é crescer profissionalmente, ter estabilidade financeira e uma vida com mais qualidade, longe das dificuldades que enfrentei no passado.
 
+<details>
+
 ###
 - 📞 Entre em contato comigo pelo telefone (21) 9 8264-6297 / 9 7341-2873 ou pelo e-mail eduardogomes377@gmail.com. Estou disponível para oportunidades de emprego e animado para fazer parte de projetos desafiadores onde possa contribuir com minhas habilidades e continuar aprendendo.
+
+</details>
 
 <br/>  
 
