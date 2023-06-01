@@ -7,21 +7,26 @@
 
 ### <div align="center"> Desenvolvedor full-stack👨‍💻 Estado civil: Em constante apredizado 🚀</div>  
   
-- 😉 Du, Dudu e Edu são os melhores apelidos que um Geek poderia querer! Movido a
-desafios, atualmente, estou aprendendo a programar com React, HTML, CSS, JavaScript,
-SQL na Cubos Academy, como bolsista no Programa Cubos Academy e iFood.   
+###
+- 😉 E aí, pessoal! Meu nome é Eduardo, e eu sou um desenvolvedor full-stack apaixonado por tecnologia. Estou sempre em busca de desafios e oportunidades para aprender e crescer nessa área incrível.   
   
 ###
-- ⚡ Familiarizado com sistemas operacionais como Windows, Android, Linux e plataformas
-baseadas em Linux. Sou um cara flexível, que tem como missão de vida tornar a vida das
-pessoas mais interessante e divertida através da tecnologia, é o que faz meus olhos
-brilharem!
+- ⚡ Minha experiência inclui a familiaridade com sistemas operacionais como Windows, Android e Linux, assim como plataformas baseadas em Linux. Sou flexível e consigo me adaptar facilmente a diferentes ambientes e tecnologias.
 
 ###
-- 🔭 Eu nunca tive uma carreira de fato, sempre trabalhei onde tive oportunidade para sobreviver, atualmente sou entregador e vi nessa profissão a possibilidade de estudar e trabalhar para conquistar meus objetivos, ajudar em casa, buscar meu sustento.  
+- 🗃️ Possuo conhecimento em bancos de dados como PostgreSQL, MySQL, SQL e SQLite, e sou familiarizado com ferramentas de desenvolvimento como Eclipse, Intellij e VSCode. Além disso, tenho experiência em trabalhar com ferramentas como HTTPie, Postman, Prisma, GraphQL, Docker e CI/CD Pipeline.
+
+###
+- 💻 Tenho habilidades em linguagens de programação como JavaScript, TypeScript e Java, além de experiência em desenvolvimento web utilizando HTML5, CSS3, frameworks como React.js, Next.js, e bibliotecas como Tailwind CSS e Bootstrap.
+
+###
+- 🔭 Vale mencionar que minha trajetória profissional foi um pouco instável até agora. Trabalhei em diferentes áreas apenas para sobreviver, mas encontrei na entrega de Delivery uma oportunidade para estudar e buscar meus objetivos graças a bolsa de estudos patrocinada pelo o Potência Tech / Ifood. Não foi fácil, mas minha determinação me impulsiona a conquistar uma carreira sólida e garantir um futuro melhor para mim e minha família.
   
 ###
-- 🌱A tecnologia me fez enxergar além, me fez sonhar com uma realidade diferente da que eu vivo hoje e finalmente construir uma carreira sólida... Meu objetivo é ficar longe das ruas, ter oportunidade de lazer, ter qualidade de vida, segurança física e financeira.
+- 🌱 Minha paixão pela tecnologia me fez enxergar além das minhas circunstâncias atuais e me inspirou a buscar uma carreira sólida como desenvolvedor. Meu objetivo é crescer profissionalmente, ter estabilidade financeira e uma vida com mais qualidade, longe das dificuldades que enfrentei no passado.
+
+###
+- 📞 Entre em contato comigo pelo telefone (21) 9 8264-6297 / 9 7341-2873 ou pelo e-mail eduardogomes377@gmail.com. Estou disponível para oportunidades de emprego e animado para fazer parte de projetos desafiadores onde possa contribuir com minhas habilidades e continuar aprendendo.
 
 <br/>  
 
