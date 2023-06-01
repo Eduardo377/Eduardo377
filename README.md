@@ -57,23 +57,26 @@
 <img style="margin: 10px" src="./assets/skill-assets/png/html_original_wordmark_logo_icon_146478.png" alt="html5" height="80" />
 <img style="margin: 10px" src="./assets/skill-assets/png/css_original_wordmark_logo_icon_146576.png" alt="css3" height="80" />
 <img style="margin: 10px" src="./assets/skill-assets/png/react_original_wordmark_logo_icon_146375.png" alt="react" height="85" />
-<img style="margin: 10px" src="./assets/skill-assets/next.js-logo.webp" alt="next.js" height="80" />
-<img style="margin: 10px" src="./assets/skill-assets/Tailwind_CSS_Logo.svg" alt="Tailwind_CSS" height="95" style="margin: 1000px" />
+<img style="margin: 10px" src="./assets/skill-assets/next.js-logo.webp" alt="next.js" height="60" />
+<img style="margin: 10px" src="./assets/skill-assets/Tailwind_CSS_Logo.svg" alt="Tailwind_CSS" height="75" style="margin: 1000px" />
 <img style="margin: 10px" src="./assets/skill-assets/bootstrap-4096.png" alt="bootstrap" height="80" />
 
 </div>
 
 ## <div align="center" valign="top">  Database </div>
 
-<img style="margin: 10px" src="./assets/db-assets/postgresql_original_wordmark_logo_icon_146392.svg" alt="postgresql" height="85" />
-<img style="margin: 10px" src="./assets/db-assets/mysql_original_wordmark_logo_icon_146417.svg" alt="mysql" height="100" />
-<img style="margin: 10px" src="./assets/db-assets/icon_sql_256_30046.png" alt="sql" height="80" />
-<img style="margin: 10px" src="./assets/db-assets/sqlite-database-logo.png" alt="sqlite" height="120" />
+<img style="margin: 10px" src="./assets/db-assets/postgresql_original_wordmark_logo_icon_146392.svg" alt="postgresql" height="60" />
+<img style="margin: 10px" src="./assets/db-assets/mysql_original_wordmark_logo_icon_146417.svg" alt="mysql" height="80" />
+<img style="margin: 10px" src="./assets/db-assets/icon_sql_256_30046.png" alt="sql" height="60" />
+<img style="margin: 10px" src="./assets/db-assets/sqlite-database-logo.png" alt="sqlite" height="80" />
 
 
 ## <div align="center" valign="top"> Ferramentas </div>
 
-<img style="margin: 10px" alt="Visual Studio Code" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img style="margin: 10px" alt="Visual Studio Code" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="80" />
+<img style="margin: 10px" src="./assets/skill-assets/eclipse-logo-png.png" alt="eclipse" height="55" />
+<img style="margin: 10px" src="./assets/skill-assets/intellij-logo-png.png" alt="intellij" height="65" />
 
 
 ## <div align="center" valign="top">  Softwares </div>
@@ -86,9 +89,6 @@
 
 <div align="center">  
 <img style="margin: 10px" src="./assets/skill-assets/png/git_original_wordmark_logo_icon_146510.png" alt="Git" height="110" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="80" />
-<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png" alt="Heruku" height="80" />
-<img style="margin: 10px" src="https://media.vlpt.us/images/ksmfou98/post/de191393-0b90-4f48-a753-f0a2606daae6/netlify-logo.png" alt="netlify" height="50" />
 
 
 ## <div align="center" valign="top" style="margin: 10px" >  Sistemas Operacionais </div>
