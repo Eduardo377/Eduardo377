@@ -111,17 +111,14 @@
 
 <img style="margin: 10px" src="./assets/skill-assets/png/gitlab_original_wordmark_logo_icon_146504.png" alt="gitlab" height="50" />
 
-<img style="margin: 10px" alt="github" src="./assets/skill-assets/png/github_original_wordmark_logo_icon_146506.png" height="50" />
-
-
 <img style="margin: 10px" src="./assets/skill-assets/png/git_original_wordmark_logo_icon_146510.png" alt="Git" height="70" />
 
 
 ## <div align="center" valign="top" style="margin: 10px" >  Sistemas Operacionais </div>
 
-<img style="margin: 10px" src="./assets/os-skill/linux_original_logo_icon_146433.png" alt="linux" height="80" />
-<img style="margin: 10px" src="./assets/os-skill/4202097logomicrosoftmswindows-115591_115710.png" alt="windows" height="80" />
-<img style="margin: 10px" src="./assets/os-skill/maclogo_244.png" alt="mac os" height="80" />
+<img style="margin: 10px" src="./assets/os-skill/linux_original_logo_icon_146433.png" alt="linux" height="40" />
+<img style="margin: 10px" src="./assets/os-skill/4202097logomicrosoftmswindows-115591_115710.png" alt="windows" height="40" />
+<img style="margin: 10px" src="./assets/os-skill/maclogo_244.png" alt="mac os" height="40" />
 </div>
 
 </td>
