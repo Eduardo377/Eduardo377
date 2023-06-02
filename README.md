@@ -31,10 +31,8 @@
 <br/>  
 
 
-###### <div>Clique em<img src="./assets/emoji-assets/apontaor-indicador.png" width="29px"></div>
-
-<details open>
-  <summary>Alguns detalhes</summary>
+<details>
+  <summary>Para visualizar minhas competências, clique aqui</summary>
 
 ###
 - 📞 Entre em contato comigo pelo telefone (21) 9 8264-6297 / 9 7341-287, chame no [WhatsApp](https://wa.me/5521982646297) <img src="./assets/indicadorReverso.png"> (só clicar) ou pelo e-mail eduardogomes377@gmail.com. Estou disponível para oportunidades de emprego e animado para fazer parte de projetos desafiadores onde possa contribuir com minhas habilidades e continuar aprendendo.
