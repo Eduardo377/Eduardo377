@@ -13,19 +13,16 @@
 - 😉 E aí, pessoal! Meu nome é Eduardo, e eu sou um desenvolvedor full-stack apaixonado por tecnologia. Estou sempre em busca de desafios e oportunidades para aprender e crescer nessa área incrível.   
   
 ###
-- ⚡ Minha experiência inclui a familiaridade com sistemas operacionais como Windows, Android e Linux, assim como plataformas baseadas em Linux. Sou flexível e consigo me adaptar facilmente a diferentes ambientes e tecnologias.
+- ⚡  Sou flexível e consigo me adaptar facilmente a diferentes ambientes e tecnologias.
 
 ###
-- 🗃️ Possuo conhecimento em bancos de dados como PostgreSQL, MySQL, SQL e SQLite, e sou familiarizado com ferramentas de desenvolvimento como Eclipse, Intellij e VSCode. Além disso, tenho experiência em trabalhar com ferramentas como HTTPie, Postman, Prisma, GraphQL, Docker e CI/CD Pipeline.
+- 🗃️ Possuo conhecimento em bancos de dados familiarizado com ferramentas de desenvolvimento.
 
 ###
-- 💻 Tenho habilidades em linguagens de programação como JavaScript, TypeScript e Java, além de experiência em desenvolvimento web utilizando HTML5, CSS3, frameworks como React.js, Next.js, e bibliotecas como Tailwind CSS e Bootstrap.
+- 💻 Tenho habilidades em linguagens de programação como JavaScript, TypeScript e Java.
 
 ###
-- 🔭 Vale mencionar que minha trajetória profissional foi um pouco instável até agora. Trabalhei em diferentes áreas apenas para sobreviver, mas encontrei na entrega de Delivery uma oportunidade para estudar e buscar meus objetivos graças a bolsa de estudos patrocinada pelo o Potência Tech / Ifood. Não foi fácil, mas minha determinação me impulsiona a conquistar uma carreira sólida e garantir um futuro melhor para mim e minha família.
-  
-###
-- 🌱 Minha paixão pela tecnologia me fez enxergar além das minhas circunstâncias atuais e me inspirou a buscar uma carreira sólida como desenvolvedor. Meu objetivo é crescer profissionalmente, ter estabilidade financeira e uma vida com mais qualidade, longe das dificuldades que enfrentei no passado.
+- 🌱 Minha paixão pela tecnologia me fez enxergar além das circunstâncias e me inspirou a buscar uma carreira sólida como desenvolvedor. Meu objetivo é crescer profissionalmente, ter estabilidade financeira e uma vida com mais qualidade;
 
 
 <br/>  
@@ -222,6 +219,10 @@
  alt="stack overflow" width="150" height="28px" style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/eduardo377" target="_blank">
+<img src="./assets/gitlab.webp"
+ alt="gitlab" width="85px;" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.codewars.com/users/eduardo377" target="_blank">
 <img src="./assets/gitlab.webp"
  alt="gitlab" width="85px;" style="margin-bottom: 5px;" />
 </a>
