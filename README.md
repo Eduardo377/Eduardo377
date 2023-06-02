@@ -104,6 +104,7 @@
 
 <img style="margin-right: 10px;" src="./assets/skill-assets/png/react-native-logo.png" alt="React.Native" height="50" />
 <img style="margin-right: 10px;" src="./assets/skill-assets/expo-blue-logo.svg" alt="expo" height="50" />
+<img style="margin-right: 10px;" src="./assets/skill-assets/png/android-studio-logo.png" alt="android studio" height="70" />
 
 </div>
 
@@ -146,6 +147,9 @@
 <img style="margin: 10px" src="./assets/os-skill/linux_original_logo_icon_146433.png" alt="linux" height="40" />
 <img style="margin: 10px" src="./assets/os-skill/4202097logomicrosoftmswindows-115591_115710.png" alt="windows" height="40" />
 <img style="margin: 10px" src="./assets/os-skill/maclogo_244.png" alt="mac os" height="40" />
+
+<img style="margin: 10px" src="./assets/skill-assets/png/android-logo.png" alt="android" height="40" />
+<img style="margin: 10px" src="./assets/skill-assets/png/apple-logo.png" alt="apple" height="40" />
 
 ## <div align="center" valign="top"> Versionamento </div>
 
