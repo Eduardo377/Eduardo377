@@ -43,7 +43,7 @@
 
 <td>
 
-## <div align="center" valign="top"> Linguagens de Programação </div>  
+## <div align="center" valign="top"> Linguagens </div>  
 
 <div align="center">
 <img style="margin: 10px" src="./assets/stack-assets/javascript_original_logo_icon_146455.svg" alt="javascript" height="50" />
@@ -51,7 +51,7 @@
 <img style="margin: 10px;" src="./assets/stack-assets/typescript_original_logo_icon_146317.png" alt="typeScript" height="50" />
 </div>
 
-## <div align="center" valign="top"> Tecnologias de marcação </div>  
+## <div align="center" valign="top"> Front End </div>  
 
 <div align="center">
 <img style="margin: 10px" src="./assets/skill-assets/png/html_original_wordmark_logo_icon_146478.png" alt="html5" height="60" />
@@ -73,6 +73,7 @@
 
 ## <div align="center" valign="top"> Ferramentas </div>
 
+<img style="margin: 10px" src="./assets/skill-assets/png/figma_logo_icon_170157.png" alt="figma" height="40" />
 <img style="margin: 10px" alt="Visual Studio Code" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img style="margin: 10px" src="./assets/skill-assets/eclipse-logo-png.png" alt="eclipse" height="45" />
 <img style="margin: 10px" src="./assets/skill-assets/intellij-logo-png.png" alt="intellij" height="55" />
@@ -89,23 +90,31 @@
 
 <img style="margin: 10px" src="./assets/skill-assets/ci-cd-pipeline.png" alt="devops" height="40" />
 
-## <div align="center" valign="top"> Competências especificas de Back End </div>
+## <div align="center" valign="top"> Back End </div>
 
-<img style="margin-right: 10px;" src="./assets/skill-assets/node-js-icon-8 (1).jpg" alt="Node.js" height="50" />
+<img style="margin-right: 10px;" src="./assets/skill-assets/png/nodejs_original_logo_icon_146411.png" alt="Node.js" height="50" />
 <img style="margin-right: 10px;" src="./assets/skill-assets/srping-boot-logo.png" alt="Spring boot" height="40" />
 <img style="margin-right: 10px;" src="./assets/skill-assets/API-rest.png" alt="api rest" height="40" />
 <img style="margin-right: 10px;" src="./assets/skill-assets/axios-logo.png" alt="Docker" height="40" />
 <img style="margin-right: 10px;" src="./assets/skill-assets/fastify-logo.png" alt="fastify" height="40" />
 <img style="margin-right: 10px;" src="./assets/skill-assets/png/express.png" alt="Express.js" height="40" />
+<img style="margin-right: 10px;" src="./assets/skill-assets/png/jwt-logo.png" alt="jwt" height="40" />
 
-## <div align="center" valign="top">  Softwares </div>
+## <div align="center" valign="top"> Mobile </div>
+
+<img style="margin-right: 10px;" src="./assets/skill-assets/png/react-native-logo.png" alt="React.Native" height="50" />
+<img style="margin-right: 10px;" src="./assets/skill-assets/expo-blue-logo.svg" alt="expo" height="50" />
+
+
+
+## <div align="center" valign="top"> Versionamento </div>
 
 <img style="margin: 10px" src="./assets/skill-assets/png/gitlab_original_wordmark_logo_icon_146504.png" alt="gitlab" height="50" />
 
 <img style="margin: 10px" alt="github" src="./assets/skill-assets/png/github_original_wordmark_logo_icon_146506.png" height="50" />
 
-<div align="center">  
-<img style="margin: 10px" src="./assets/skill-assets/png/git_original_wordmark_logo_icon_146510.png" alt="Git" height="110" />
+
+<img style="margin: 10px" src="./assets/skill-assets/png/git_original_wordmark_logo_icon_146510.png" alt="Git" height="70" />
 
 
 ## <div align="center" valign="top" style="margin: 10px" >  Sistemas Operacionais </div>
