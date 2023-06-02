@@ -89,7 +89,7 @@
 
 <img style="margin: 10px" src="./assets/skill-assets/ci-cd-pipeline.png" alt="devops" height="40" />
 
-## <div align="center" valign="top"> Competências especificas de Back End </div>
+## <div align="center" valign="top" gap="10px" > Competências especificas de Back End </div>
 
 <img style="margin: 10px" src="./assets/skill-assets/node-js-icon-8 (1).jpg" alt="Node.js" height="50"  style="margin: 10px" />
 <img style="margin: 10px" src="./assets/skill-assets/srping-boot-logo.png" alt="Spring boot" height="40" style="margin: 10px" />
