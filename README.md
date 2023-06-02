@@ -105,20 +105,6 @@
 <img style="margin-right: 10px;" src="./assets/skill-assets/png/react-native-logo.png" alt="React.Native" height="50" />
 <img style="margin-right: 10px;" src="./assets/skill-assets/expo-blue-logo.svg" alt="expo" height="50" />
 
-
-
-## <div align="center" valign="top"> Versionamento </div>
-
-<img style="margin: 10px" src="./assets/skill-assets/png/gitlab_original_wordmark_logo_icon_146504.png" alt="gitlab" height="50" />
-
-<img style="margin: 10px" src="./assets/skill-assets/png/git_original_wordmark_logo_icon_146510.png" alt="Git" height="70" />
-
-
-## <div align="center" valign="top" style="margin: 10px" >  Sistemas Operacionais </div>
-
-<img style="margin: 10px" src="./assets/os-skill/linux_original_logo_icon_146433.png" alt="linux" height="40" />
-<img style="margin: 10px" src="./assets/os-skill/4202097logomicrosoftmswindows-115591_115710.png" alt="windows" height="40" />
-<img style="margin: 10px" src="./assets/os-skill/maclogo_244.png" alt="mac os" height="40" />
 </div>
 
 </td>
@@ -153,6 +139,19 @@
   <img width="280" src="https://i.imgur.com/LpY2nT4.png" alt="gama academy"  style="border-radius: 80px" />
 
   <img width="280" src="https://capitaldigital.com.br/wp-content/uploads/2020/09/kzv4wwbbh6sai7cwqyu8.jpg" alt="cubos academy"  style="border-radius: 80px" />
+
+
+## <div align="center" valign="top" style="margin: 10px" >  Sistemas Operacionais </div>
+
+<img style="margin: 10px" src="./assets/os-skill/linux_original_logo_icon_146433.png" alt="linux" height="40" />
+<img style="margin: 10px" src="./assets/os-skill/4202097logomicrosoftmswindows-115591_115710.png" alt="windows" height="40" />
+<img style="margin: 10px" src="./assets/os-skill/maclogo_244.png" alt="mac os" height="40" />
+
+## <div align="center" valign="top"> Versionamento </div>
+
+<img style="margin: 10px" src="./assets/skill-assets/png/gitlab_original_wordmark_logo_icon_146504.png" alt="gitlab" height="50" />
+
+<img style="margin: 10px" src="./assets/skill-assets/png/git_original_wordmark_logo_icon_146510.png" alt="Git" height="70" />
 
 </div>
 
