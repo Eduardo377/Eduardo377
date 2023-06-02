@@ -51,6 +51,13 @@
 <img style="margin: 10px;" src="./assets/stack-assets/typescript_original_logo_icon_146317.png" alt="typeScript" height="50" />
 </div>
 
+## <div align="center" valign="top">  Agile methodology </div>  
+
+<div align="center">
+<img style="margin: 10px" src="./assets/netodologias/kanban-logo.png" alt="kanban" height="50" />
+<img style="margin: 10px" src="/assets/netodologias/scrum-logo.png" alt="scrum" height="50" />
+</div>
+
 ## <div align="center" valign="top"> Front End </div>  
 
 <div align="center">
@@ -65,13 +72,19 @@
 
 ## <div align="center" valign="top">  Database </div>
 
+<div align="center">
+
 <img style="margin: 10px" src="./assets/db-assets/postgresql_original_wordmark_logo_icon_146392.svg" alt="postgresql" height="60" />
 <img style="margin: 10px" src="./assets/db-assets/mysql_original_wordmark_logo_icon_146417.svg" alt="mysql" height="80" />
 <img style="margin: 10px" src="./assets/db-assets/sqlite-database-logo.png" alt="sqlite" height="80" />
 <img style="margin: 10px" src="./assets/db-assets/icon_sql_256_30046.png" alt="sql" height="50" />
 
+</div>
+
 
 ## <div align="center" valign="top"> Ferramentas </div>
+
+<div align="center">
 
 <img style="margin: 10px" src="./assets/skill-assets/png/figma_logo_icon_170157.png" alt="figma" height="40" />
 <img style="margin: 10px" alt="Visual Studio Code" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -90,7 +103,11 @@
 
 <img style="margin: 10px" src="./assets/skill-assets/ci-cd-pipeline.png" alt="devops" height="40" />
 
+</div>
+
 ## <div align="center" valign="top"> Back End </div>
+
+<div align="center">
 
 <img style="margin-right: 10px;" src="./assets/skill-assets/png/nodejs_original_logo_icon_146411.png" alt="Node.js" height="50" />
 <img style="margin-right: 10px;" src="./assets/skill-assets/srping-boot-logo.png" alt="Spring boot" height="40" />
@@ -100,11 +117,17 @@
 <img style="margin-right: 10px;" src="./assets/skill-assets/png/express.png" alt="Express.js" height="40" />
 <img style="margin-right: 10px;" src="./assets/skill-assets/png/jwt-logo.png" alt="jwt" height="40" />
 
+</div>
+
 ## <div align="center" valign="top"> Mobile </div>
+
+<div align="center">
 
 <img style="margin-right: 10px;" src="./assets/skill-assets/png/react-native-logo.png" alt="React.Native" height="50" />
 <img style="margin-right: 10px;" src="./assets/skill-assets/expo-blue-logo.svg" alt="expo" height="50" />
 <img style="margin-right: 10px;" src="./assets/skill-assets/png/android-studio-logo.png" alt="android studio" height="70" />
+
+</div>
 
 </div>
 
