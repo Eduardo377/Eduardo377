@@ -222,10 +222,9 @@
 <img src="./assets/gitlab.webp"
  alt="gitlab" width="85px;" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.codewars.com/users/eduardo377" target="_blank">
-<img src="./assets/gitlab.webp"
- alt="gitlab" width="85px;" style="margin-bottom: 5px;" />
-</a>
+
+
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/eduardo377)
 </div>  
 
 <br/>
