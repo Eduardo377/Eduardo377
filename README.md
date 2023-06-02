@@ -46,20 +46,20 @@
 ## <div align="center" valign="top"> Linguagens de Programação </div>  
 
 <div align="center">
-<img style="margin: 10px" src="./assets/stack-assets/javascript_original_logo_icon_146455.svg" alt="javascript" height="70" />
-<img style="margin: 10px" src="/assets/stack-assets/java_original_wordmark_logo_icon_146459.png" alt="java" height="80" />
-<img style="margin: 10px;" src="./assets/stack-assets/typescript_original_logo_icon_146317.png" alt="typeScript" height="70" />
+<img style="margin: 10px" src="./assets/stack-assets/javascript_original_logo_icon_146455.svg" alt="javascript" height="50" />
+<img style="margin: 10px" src="/assets/stack-assets/java_original_wordmark_logo_icon_146459.png" alt="java" height="60" />
+<img style="margin: 10px;" src="./assets/stack-assets/typescript_original_logo_icon_146317.png" alt="typeScript" height="50" />
 </div>
 
 ## <div align="center" valign="top"> Tecnologias de marcação </div>  
 
 <div align="center">
-<img style="margin: 10px" src="./assets/skill-assets/png/html_original_wordmark_logo_icon_146478.png" alt="html5" height="80" />
-<img style="margin: 10px" src="./assets/skill-assets/png/css_original_wordmark_logo_icon_146576.png" alt="css3" height="80" />
-<img style="margin: 10px" src="./assets/skill-assets/png/react_original_wordmark_logo_icon_146375.png" alt="react" height="85" />
-<img style="margin: 10px" src="./assets/skill-assets/next.js-logo.webp" alt="next.js" height="60" />
-<img style="margin: 10px" src="./assets/skill-assets/Tailwind_CSS_Logo.svg" alt="Tailwind_CSS" height="75" style="margin: 1000px" />
-<img style="margin: 10px" src="./assets/skill-assets/bootstrap-4096.png" alt="bootstrap" height="80" />
+<img style="margin: 10px" src="./assets/skill-assets/png/html_original_wordmark_logo_icon_146478.png" alt="html5" height="60" />
+<img style="margin: 10px" src="./assets/skill-assets/png/css_original_wordmark_logo_icon_146576.png" alt="css3" height="60" />
+<img style="margin: 10px" src="./assets/skill-assets/png/react_original_wordmark_logo_icon_146375.png" alt="react" height="50" />
+<img style="margin: 10px" src="./assets/skill-assets/next.js-logo.webp" alt="next.js" height="50" />
+<img style="margin: 10px" src="./assets/skill-assets/Tailwind_CSS_Logo.svg" alt="Tailwind_CSS" height="50" style="margin: 1000px" />
+<img style="margin: 10px" src="./assets/skill-assets/bootstrap-4096.png" alt="bootstrap" height="50" />
 
 </div>
 
