@@ -73,19 +73,36 @@
 
 ## <div align="center" valign="top"> Ferramentas </div>
 
-<img style="margin: 10px" alt="Visual Studio Code" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="80" />
-<img style="margin: 10px" src="./assets/skill-assets/eclipse-logo-png.png" alt="eclipse" height="55" />
-<img style="margin: 10px" src="./assets/skill-assets/intellij-logo-png.png" alt="intellij" height="65" />
+<img style="margin: 10px" alt="Visual Studio Code" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img style="margin: 10px" src="./assets/skill-assets/eclipse-logo-png.png" alt="eclipse" height="45" />
+<img style="margin: 10px" src="./assets/skill-assets/intellij-logo-png.png" alt="intellij" height="55" />
+<img style="margin: 10px" src="./assets/skill-assets/insomnia-logo/insomnia-seeklogo.com.svg" alt="insomnia" height="55" />
+<img style="margin: 10px" src="./assets/skill-assets/httpie-logo.png" alt="httpie" height="55" />
 
+<img style="margin: 10px" src="./assets/skill-assets/postman-logo.svg" alt="postman" height="55" />
+
+<img style="margin: 10px" src="./assets/skill-assets/prisma-logo.svg" alt="prisma" height="55" />
+
+<img style="margin: 10px" src="./assets/skill-assets/graphql-logo.svg" alt="graphql" height="55" />
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="55" />
+
+<img style="margin: 10px" src="./assets/skill-assets/ci-cd-pipeline.png" alt="devops" height="40" />
+
+## <div align="center" valign="top"> Competências especificas de Back End </div>
+
+<img style="margin: 10px" src="./assets/skill-assets/node-js-icon-8 (1).jpg" alt="Node.js" height="50" />
+<img style="margin: 10px" src="./assets/skill-assets/srping-boot-logo.png" alt="Spring boot" height="40" />
+<img style="margin: 10px" src="./assets/skill-assets/API-rest.png" alt="api rest" height="40" />
+<img style="margin: 10px" src="./assets/skill-assets/axios-logo.png" alt="Docker" height="40" />
+<img style="margin: 10px" src="./assets/skill-assets/fastify-logo.png" alt="fastify" height="40" />
+<img style="margin: 10px" src="./assets/skill-assets/png/express.png" alt="Express.js" height="40" />
 
 ## <div align="center" valign="top">  Softwares </div>
 
-<img style="margin: 10px" src="./assets/skill-assets/png/gitlab_original_wordmark_logo_icon_146504.png" alt="gitlab" height="80" />
+<img style="margin: 10px" src="./assets/skill-assets/png/gitlab_original_wordmark_logo_icon_146504.png" alt="gitlab" height="50" />
 
-<img style="margin: 10px" alt="github" height="80"  src="./assets/skill-assets/png/github_original_wordmark_logo_icon_146506.png" />
-<img style="margin: 10px" src="./assets/skill-assets/png/express.png" alt="Express.js" height="40" />
-<img style="margin: 10px" src="./assets/skill-assets/node-js-icon-8 (1).jpg" alt="Node.js" height="80" />
+<img style="margin: 10px" alt="github" src="./assets/skill-assets/png/github_original_wordmark_logo_icon_146506.png" height="50" />
 
 <div align="center">  
 <img style="margin: 10px" src="./assets/skill-assets/png/git_original_wordmark_logo_icon_146510.png" alt="Git" height="110" />
