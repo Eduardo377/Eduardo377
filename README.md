@@ -67,7 +67,7 @@
 
 <img style="margin: 10px" src="./assets/db-assets/postgresql_original_wordmark_logo_icon_146392.svg" alt="postgresql" height="60" />
 <img style="margin: 10px" src="./assets/db-assets/mysql_original_wordmark_logo_icon_146417.svg" alt="mysql" height="80" />
-<img style="margin: 10px" src="./assets/db-assets/icon_sql_256_30046.png" alt="sql" height="60" />
+<img style="margin: 10px" src="./assets/db-assets/icon_sql_256_30046.png" alt="sql" height="50" />
 <img style="margin: 10px" src="./assets/db-assets/sqlite-database-logo.png" alt="sqlite" height="80" />
 
 
