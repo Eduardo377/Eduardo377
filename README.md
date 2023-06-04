@@ -29,7 +29,8 @@
 
 
 <details>
-<summary><img style="pointer-events: none" src="./assets/indicadorReverso.png"> </summary>
+<summary><img style="pointer-events: none" src="./assets/indicadorReverso.png" alt="Indicador Reverso">
+> </summary>
 
 [WhatsApp](https://wa.me/5521982646297) Disponivel!
 <table>
