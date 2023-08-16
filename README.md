@@ -28,7 +28,7 @@
 <br/>  
 
 
-<details>
+<details open>
 <summary> <span>Clique aqui</span><img style="pointer-events: none" src="./assets/indicadorReverso.png" alt="Indicador Reverso">
  </summary>
 
@@ -44,6 +44,7 @@
 <img style="margin: 10px" src="./assets/stack-assets/javascript_original_logo_icon_146455.svg" alt="javascript" height="50" />
 <img style="margin: 10px" src="/assets/stack-assets/java_original_wordmark_logo_icon_146459.png" alt="java" height="60" />
 <img style="margin: 10px;" src="./assets/stack-assets/typescript_original_logo_icon_146317.png" alt="typeScript" height="50" />
+<img style="margin: 10px;" src="./assets/stack-assets/python.png" alt="python" height="50" />
 </div>
 
 ## <div align="center" valign="top">  Agile methodology </div>  
@@ -82,6 +83,7 @@
 <div align="center">
 
 <img style="margin: 10px" src="./assets/skill-assets/png/figma_logo_icon_170157.png" alt="figma" height="40" />
+<img style="margin: 10px" src="./assets/skill-assets/png/canva_logo.png" alt="figma" height="45" />
 <img style="margin: 10px" alt="Visual Studio Code" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img style="margin: 10px" src="./assets/skill-assets/eclipse-logo-png.png" alt="eclipse" height="45" />
 <img style="margin: 10px" src="./assets/skill-assets/intellij-logo-png.png" alt="intellij" height="55" />
