@@ -28,7 +28,7 @@
 <br/>  
 
 
-<details open>
+<details>
 <summary> <span>Clique aqui</span><img style="pointer-events: none" src="./assets/indicadorReverso.png" alt="Indicador Reverso">
  </summary>
 
