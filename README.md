@@ -1,8 +1,9 @@
 ## <div align="center"> Olá! <img src="./assets/emoji-assets/Hi.gif" alt="hi" width="29px"> Sou Eduardo Gomes! Seja bem vindo <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></div>
 
-<div align="center">
-<img src="./assets/snake.svg" alt="snake game" align="center" style="width: 100%" /> 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sdesuzane/sdesuzane/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sdesuzane/sdesuzane/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- ![Snake animation](https://github.com/Eduardo377/Eduardo377/blob/output/github-user-contribution.svg) -->
   
