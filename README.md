@@ -19,7 +19,7 @@ Sou um desenvolvedor full-stack com mais de quatro anos de experiência, especia
 - **Metodologias Ágeis:** Kanban, Scrum
 - **Ferramentas:** Figma, Canva, Visual Studio Code, Eclipse, IntelliJ, Insomnia, Postman, Prisma, GraphQL, Docker, CI/CD
 - **Sistemas Operacionais:** Linux, Windows, MacOS, Android, iOS
-- **Versionamento:** Git, GitLab
+- **Versionamento:** Git, Github, GitLab
 
 ### 📈 Estatísticas do GitHub
 
