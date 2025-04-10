@@ -3,9 +3,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sdesuzane/sdesuzane/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Olá! Eu sou o Eduardo Gomes! 👋## <div align="center"> Olá! <img src="./assets/emoji-assets/Hi.gif" alt="hi" width="29px"> Sou Eduardo Gomes! Seja bem vindo <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></div>
+## <div align="center"> Olá! <img src="./assets/emoji-assets/Hi.gif" alt="hi" width="29px"> Sou Eduardo Gomes! Seja bem vindo <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></div>
 
-### Desenvolvedor Full-Stack apaixonado por tecnologia 🚀
+### Apaixonado por tecnologia 🚀
 
 Sou um desenvolvedor full-stack com mais de quatro anos de experiência, especializado nos ecossistemas JavaScript, TypeScript e Java. Minha paixão pela tecnologia me impulsiona a buscar constantemente desafios e oportunidades para aprender e crescer. Sou flexível e me adapto facilmente a diferentes ambientes e tecnologias, sempre focado em entregar soluções eficientes e de qualidade.
 
