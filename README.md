@@ -7,7 +7,7 @@
 
 ### Apaixonado por tecnologia 🚀
 
-Sou um desenvolvedor full-stack com mais de quatro anos de experiência, especializado nos ecossistemas JavaScript, TypeScript e Java. Minha paixão pela tecnologia me impulsiona a buscar constantemente desafios e oportunidades para aprender e crescer. Sou flexível e me adapto facilmente a diferentes ambientes e tecnologias, sempre focado em entregar soluções eficientes e de qualidade.
+Sou um desenvolvedor full-stack com mais de quatro anos de experiência, especializado nos ecossistemas JavaScript, TypeScript, Python e Java. Minha paixão pela tecnologia me impulsiona a buscar constantemente desafios e oportunidades para aprender e crescer. Sou flexível e me adapto facilmente a diferentes ambientes e tecnologias, sempre focado em entregar soluções eficientes e de qualidade.
 
 ### 🛠️ Habilidades Técnicas
 
