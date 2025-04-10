@@ -33,7 +33,7 @@ Sou um desenvolvedor full-stack com mais de quatro anos de experiência, especia
 [![GitLab](https://img.shields.io/badge/GitLab-eduardo377-orange?style=flat-square&logo=gitlab)](https://gitlab.com/eduardo377)
 [![CodeWars](https://img.shields.io/badge/CodeWars-eduardo377-red?style=flat-square&logo=codewars)](https://www.codewars.com/users/eduardo377)
 [![Discord](https://img.shields.io/badge/Discord-8875-blue?style=flat-square&logo=discord)](https://discord.com/channels/#8875)
-[![Pinterest](https://img.shields.io/badge/Pinterest-eduardojgomes-red?style=flat-square&logo=pinterest)](https://br.pinterest.com/eduardojgomes/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-eduardojgomes-red?style=flat-square&logo=pinterest)](https://br.pinterest.com/eduardogomes377/)
 [![Email](https://img.shields.io/badge/Email-eduardogomes377@gmail.com-red?style=flat-square&logo=gmail)](mailto:eduardogomes377@gmail.com)
 
 ### 🎯 Vamos Colaborar?
