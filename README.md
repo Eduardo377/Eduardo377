@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full-Stack apaixonado por tecnologia 🚀
 
-Sou um desenvolvedor full-stack com mais de dois anos de experiência, especializado nos ecossistemas JavaScript, TypeScript e Java. Minha paixão pela tecnologia me impulsiona a buscar constantemente desafios e oportunidades para aprender e crescer. Sou flexível e me adapto facilmente a diferentes ambientes e tecnologias, sempre focado em entregar soluções eficientes e de qualidade.
+Sou um desenvolvedor full-stack com mais de quatro anos de experiência, especializado nos ecossistemas JavaScript, TypeScript e Java. Minha paixão pela tecnologia me impulsiona a buscar constantemente desafios e oportunidades para aprender e crescer. Sou flexível e me adapto facilmente a diferentes ambientes e tecnologias, sempre focado em entregar soluções eficientes e de qualidade.
 
 ### 🛠️ Habilidades Técnicas
 
@@ -15,12 +15,6 @@ Sou um desenvolvedor full-stack com mais de dois anos de experiência, especiali
 - **Ferramentas:** Figma, Canva, Visual Studio Code, Eclipse, IntelliJ, Insomnia, Postman, Prisma, GraphQL, Docker, CI/CD
 - **Sistemas Operacionais:** Linux, Windows, MacOS, Android, iOS
 - **Versionamento:** Git, GitLab
-
-### 🌟 Experiências e Conquistas
-
-- **Projetos Open Source:** Participei de diversos projetos de código aberto, contribuindo com soluções inovadoras e colaborando com a comunidade de desenvolvedores.
-- **Desenvolvimento de Aplicações:** Atuei no desenvolvimento de aplicações completas, desde o front-end até o back-end, utilizando as tecnologias mencionadas.
-- **Automação de Processos:** Implementei soluções que automatizaram processos internos, resultando em aumento de eficiência e redução de custos.
 
 ### 📈 Estatísticas do GitHub
 
