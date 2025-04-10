@@ -3,7 +3,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sdesuzane/sdesuzane/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Olá! Eu sou o Eduardo Gomes! 👋
+## Olá! Eu sou o Eduardo Gomes! 👋## <div align="center"> Olá! <img src="./assets/emoji-assets/Hi.gif" alt="hi" width="29px"> Sou Eduardo Gomes! Seja bem vindo <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></div>
 
 ### Desenvolvedor Full-Stack apaixonado por tecnologia 🚀
 
