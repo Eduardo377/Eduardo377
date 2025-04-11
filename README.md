@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sdesuzane/sdesuzane/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sdesuzane/sdesuzane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sdesuzane/sdesuzane/Eduardo377/Eduardo377/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sdesuzane/sdesuzane/Eduardo377/Eduardo377/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## <div align="center"> Olá! <img src="./assets/emoji-assets/Hi.gif" alt="hi" width="29px"> Sou Eduardo Andrade! Seja bem vindo <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></div>
@@ -23,21 +23,31 @@ Sou um desenvolvedor full-stack com mais de quatro anos de experiência, especia
 
 ### 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Eduardo377&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+<div align="center" display="flex">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo377&theme=highcontrast&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo377&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo377&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas no GitHub">
+</div>
 
 ### 🔗 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardogomes377-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eduardogomes377/)
+[![Discord](https://img.shields.io/badge/Discord-8875-blue?style=flat-square&logo=discord)](https://discord.com/channels/#8875)
+[![GitLab](https://img.shields.io/badge/GitLab-eduardo377-orange?style=flat-square&logo=gitlab)](https://gitlab.com/eduardo377)
 [![GitHub](https://img.shields.io/badge/GitHub-Eduardo377-lightgrey?style=flat-square&logo=github)](https://github.com/Eduardo377)
 [![CodePen](https://img.shields.io/badge/CodePen-eduardo377-black?style=flat-square&logo=codepen)](https://codepen.io/eduardo377)
-[![GitLab](https://img.shields.io/badge/GitLab-eduardo377-orange?style=flat-square&logo=gitlab)](https://gitlab.com/eduardo377)
 [![CodeWars](https://img.shields.io/badge/CodeWars-eduardo377-red?style=flat-square&logo=codewars)](https://www.codewars.com/users/eduardo377)
-[![Discord](https://img.shields.io/badge/Discord-8875-blue?style=flat-square&logo=discord)](https://discord.com/channels/#8875)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardogomes377-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eduardogomes377/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-eduardojgomes-red?style=flat-square&logo=pinterest)](https://br.pinterest.com/eduardogomes377/)
 [![Email](https://img.shields.io/badge/Email-eduardogomes377@gmail.com-red?style=flat-square&logo=gmail)](mailto:eduardogomes377@gmail.com)
 
 ### 🎯 Vamos Colaborar?
 
 Estou sempre aberto a novas oportunidades e colaborações. Se você tem um projeto interessante ou deseja trocar ideias sobre tecnologia, sinta-se à vontade para entrar em contato!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardo377/Eduardo377/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eduardo377/Eduardo377/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Eduardo377/Eduardo377/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
