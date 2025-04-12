@@ -50,4 +50,6 @@ Estou sempre aberto a novas oportunidades e colaborações. Se você tem um proj
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Eduardo377/Eduardo377/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 ---
