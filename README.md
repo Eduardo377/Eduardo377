@@ -16,11 +16,11 @@ Engenheiro de software com +4 anos de experiência, consolidando a transição p
 
 ### 💻 Technical Arsenal
 
-| Category             | Technologies                                           |
-| :------------------- | :----------------------------------------------------- |
-| **Development**      | `Python` `JavaScript` `Node.js` `React` `PostgreSQL`   |
-| **Security & Infra** | `Wazuh` `Docker & Compose` `Linux` `TLS/SSL` |
-| **Networking**       | `SSH Reverse Tunneling` `Socat` `Port Forwarding`      |
+| Category             | Technologies                                         |
+| :------------------- | :--------------------------------------------------- |
+| **Development**      | `Python` `JavaScript` `Node.js` `React` `PostgreSQL` |
+| **Security & Infra** | `Wazuh` `Docker & Compose` `Linux` `TLS/SSL`         |
+| **Networking**       | `SSH Reverse Tunneling` `Socat` `Port Forwarding`    |
 
 ---
 
@@ -35,8 +35,10 @@ Projeto de alta complexidade técnica que consistiu no deploy de um ambiente **W
 ---
 
 ### 📊 GitHub Metrics
-![Stats](https://github-readme-stats.vercel.app/api?username=Eduardo377&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo377&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo377&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo377&layout=compact&theme=dark&hide_border=true" height="150" />
+</p>
 
 ---
 
