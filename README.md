@@ -1,4 +1,4 @@
-# Eduardo Andrade (Eduardo377)
+# Eduardo Andrade
 **Full Stack Developer | Cybersecurity & Infrastructure Engineer**
 
 > Especialista em arquiteturas distribuídas e segurança defensiva. Focado em viabilizar operações de segurança complexas em ambientes de rede restritos e análise forense de dados.
