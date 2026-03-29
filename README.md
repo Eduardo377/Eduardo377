@@ -34,14 +34,6 @@ Projeto de alta complexidade técnica que consistiu no deploy de um ambiente **W
 
 ---
 
-### 📊 GitHub Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo377&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo377&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
-
----
-
 ### 🔌 Connect & Collaborate
 Disponível para desafios que envolvam segurança de aplicações, automação de infraestrutura e análise forense.
 
